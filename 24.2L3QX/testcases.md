@@ -43,7 +43,7 @@ __Output__
 ```
 QUE COMECEM AS BATALHAS
 Gary começa atacando!
-Pidgeotto desmaiou e MAGNETON venceu esta luta
+Pidgeotto desmaiou e Magneton venceu esta luta
 ==================== ====================
 1° Batalha: pidgeotto vs MAGNETON
 Gary é o grande vencedor!
