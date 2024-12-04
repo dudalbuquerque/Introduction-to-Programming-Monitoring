@@ -1,3 +1,7 @@
+Período: 24.2
+Lista: 3
+Questão: x 
+Dificuldade: Média
 
 
 **Ash enfrenta Gary: uma batalha épica!**

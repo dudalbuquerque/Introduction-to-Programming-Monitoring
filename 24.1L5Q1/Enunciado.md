@@ -1,7 +1,7 @@
 Período: 24.1
 Lista: 5
 Questão: 01 
-Difficulty: Easy
+Dificuldade: Easy
 
 **The Witcher 3: Wild Hunt**
 
