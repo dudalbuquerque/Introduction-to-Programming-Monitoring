@@ -15,6 +15,9 @@ for i in range(int(qnt_pokemon[1])):
     pokemon = input().split(", ")
     mochila_Gary.append(pokemon)
 
+mochila_Ash_inicio = len(mochila_Ash)
+mochila_Gary_inicio = len(mochila_Gary)
+
 # Começo das batalhas
 print("QUE COMECEM AS BATALHAS")
 
@@ -89,17 +92,17 @@ while len(mochila_Ash) > 0 and len(mochila_Gary) > 0:
 # Imprimir o resumo das batalhas
 print("==================== ====================")
 
-if (len(mochila_Ash) == 0 or len(mochila_Gary) == 0):
-    if (len(mochila_Ash) == 0 and len(mochila_Gary) == 0):
+if (mochila_Ash_inicio == 0 or mochila_Gary_inicio== 0):
+    if mochila_Ash_inicio == 0 and mochila_Gary_inicio== 0:
         print("Nenhuma batalha foi concluída.")
-    elif len(mochila_Ash) == 0:
+    elif mochila_Ash_inicio == 0:
         print("Ash deixou seus pokemons descansando!")
         vitorias_Gary+=1
-    elif len(mochila_Gary) == 0:
+    elif mochila_Gary_inicio == 0:
         print("Gary deixou seus pokemons descansando!")
         vitorias_Ash+=1
 
-if len(mochila_Ash) != 0 and len(mochila_Gary) != 0:
+if mochila_Ash_inicio != 0 and mochila_Gary_inicio != 0:
     cont = 1
     for batalha in Batalhas:
         print(f"{cont}° Batalha: {batalha[0]} vs {batalha[1]}")
