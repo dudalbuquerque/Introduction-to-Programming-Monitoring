@@ -2,6 +2,10 @@
 
 Ash terá que enfrentar novamente um de seus maiores rivais, Gary. Para isso, ele contará com seus pokémons  de confiança. O mesmo vale para Gary, que não deixará barato e entrará com seus Pokémons mais poderosos. Eles decidirão quem começa a batalha com um "par ou ímpar", e cada confronto será resolvido até que um dos Pokémons desmaie!
 
+![Ahs](https://media1.tenor.com/m/7-tMnBp6KJoAAAAd/pokemon-pocket-monsters.gif)
+
+
+
 Seu desafio será criar um programa que simule a batalha entre Ash e Gary. Cada um deles poderá escolher entre os pokémons que estão em suas mochilas, para levar ao combate.
 
 BATALHA:
