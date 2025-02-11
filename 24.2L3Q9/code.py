@@ -57,7 +57,6 @@ while len(mochila_Ash) > 0 and len(mochila_Gary) > 0:
         pokemon_Gary[3] = int(pokemon_Gary[3])  # Nível
 
         # Começar a batalha até que um pokémon desmaie
-        parar1 = False
         while pokemon_Ash[2] > 0 and pokemon_Gary[2] > 0:
             if vencedor_impoupar == "Ash":
                 # Ash ataca primeiro

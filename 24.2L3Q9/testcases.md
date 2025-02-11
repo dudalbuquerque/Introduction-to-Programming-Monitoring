@@ -18,11 +18,9 @@ FIM DAS BATALHAS
 __Output__
 ```
 QUE COMECEM AS BATALHAS
-Ash começa atacando!
 Squirtle desmaiou e Pikachu venceu esta luta
-Ash começa atacando!
 Bulbasaur desmaiou e Charmander venceu esta luta
-==================== ====================
+=============== ===============
 1° Batalha: PIKACHU vs squirtle
 2° Batalha: CHARMANDER vs bulbasaur
 Ash é o grande vencedor!
@@ -42,9 +40,8 @@ FIM DAS BATALHAS
 __Output__
 ```
 QUE COMECEM AS BATALHAS
-Gary começa atacando!
 Pidgeotto desmaiou e Magneton venceu esta luta
-==================== ====================
+=============== ===============
 1° Batalha: pidgeotto vs MAGNETON
 Gary é o grande vencedor!
 ```
@@ -69,11 +66,9 @@ FIM DAS BATALHAS
 __Output__
 ```
 QUE COMECEM AS BATALHAS
-Ash começa atacando!
 Bulbasaur desmaiou e Growlithe venceu esta luta
-Ash começa atacando!
 Machop desmaiou e Squirtle venceu esta luta
-==================== ====================
+=============== ===============
 1° Batalha: bulbasaur vs GROWLITHE
 2° Batalha: SQUIRTLE vs machop
 Depois de todas as batalhas, ainda terminou em empate!
@@ -89,7 +84,7 @@ FIM DAS BATALHAS
 __Output__
 ```
 QUE COMECEM AS BATALHAS
-==================== ====================
+=============== ===============
 Ash deixou seus pokemons descansando!
 Gary é o grande vencedor!
 ```
@@ -104,7 +99,7 @@ FIM DAS BATALHAS
 __Output__
 ```
 QUE COMECEM AS BATALHAS
-==================== ====================
+=============== ===============
 Gary deixou seus pokemons descansando!
 Ash é o grande vencedor!
 ```
